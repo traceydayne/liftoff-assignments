@@ -7,15 +7,15 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-My project will be a debt payoff calculator using at least two commonly touted methods for paying off debt quickly. It will allow for comparison of those methods against each other and against simply paying the minimum payment over time. Additionally, it will also display the power of compounding via the stock market allowing users to see how their funds can work for them. Users will be able to run simulations and edit information in order to make informed financial decisions.
+My project will be a TDEE calculator allowing users to see their current and future expenditure based on their activity level. Ideally, the output will also show users the difference in their current TDEE and future TDEE in terms of high density foods.
 ### Features
-Minimum payoff: users will be able to see just how long and how much interest they'll pay by making the minimum payments set forth by the lender.
+Current TDEE: users will be able to see their current energy expenditure estimate.
 
-Snowball payoff: users will be able to see a comparison between paying their debts in order of smallest to largest principal vs paying the minimums.
+Future TDEE: users will be able to see an estimate of their future TDEE at various activity levels.
 
-Avalanche payoff: similar comparison to snowball however debts are ordered highest to lowest interest rate.
+Calorie Visualization: users will be able to see the difference in expenditure in terms of high density foods such as donuts, pizza, tacos, etc.
 
-Compounding Power: users will be able to see what their funds can grow to over a desired length of time in order to decide if a debt is worth paying down quickly or over time.
+Progress Visulization: users will be able to see where they are at on their journey currently in terms of calories already expended and calories left to be expended.
 
 ### Technologies
 C#
@@ -28,4 +28,4 @@ Javascript
 ### What I'll Have to Learn
 I will need to learn how to create a math heavy application working with user inputs
 ### Project Tracker
-Link to your Trello board here
+[Trello Board](https://github.com/traceydayne/liftoff-assignments/blob/master/P3-Project_Planning/README.md)
