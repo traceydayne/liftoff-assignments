@@ -7,10 +7,10 @@ For this assignment you will need to upload your resume and provide links to you
 ## Submission Instructions
  
 ### GitHub
-Provide a link to your GitHub account here.
+[GitHub Profile](https://github.com/traceydayne)
  
 ### LinkedIn
-Provide a link to your LinkedIn account here.
+[LinkedIn Profile](https://www.linkedin.com/in/tracey-chandler-575b041b0/)
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
